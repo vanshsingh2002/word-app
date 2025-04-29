@@ -3,7 +3,7 @@
 ## Get started
 1. Clone the Repository
    ```
-   https://github.com/vansh/Word-App.git
+   https://github.com/vanshsingh2002/word-app
    ```
 2. Go to main Directory
    ```
