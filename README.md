@@ -1,4 +1,4 @@
-# Word of the Day app 👋
+# Word Day App
 
 ## Get started
 1. Clone the Repository
